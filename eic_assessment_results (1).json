@@ -1,0 +1,10 @@
+{
+    "Is the applicant an SME, a startup, or a small mid-cap (<500 employees)?": "yes",
+    "Does the project involve high-risk, high-potential innovation beyond existing market solutions?": "yes",
+    "Is the project at TRL 5-6+ (i.e., validated in a relevant environment or beyond)?": "yes",
+    "Does the company require funding for market entry, scaling, or final development steps?": "yes",
+    "Is the project targeting a significant market opportunity (>\u20ac100M) with scalable business potential?": "yes",
+    "Is the company open to grant-only (\u20ac2.5M), grant + equity (\u20ac17.5M), or equity-only funding?": "yes",
+    "Does the company have a strong team with technical and business expertise?": "yes",
+    "Does the project involve a high risk of market or technology opportunity that prevents private investment?": "yes"
+}
